@@ -1,0 +1,4 @@
+﻿  Task number 21.cpp
+D:\University\Programs for laboratory work\Laboratory work 5\Task number 21\Task number 21\Task number 21.cpp(19,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\University\Programs for laboratory work\Laboratory work 5\Task number 21\Task number 21\Task number 21.cpp(54,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Task number 21.vcxproj -> D:\University\Programs for laboratory work\Laboratory work 5\Task number 21\Debug\Task number 21.exe
